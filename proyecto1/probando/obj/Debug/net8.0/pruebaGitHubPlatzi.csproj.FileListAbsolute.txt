@@ -1,0 +1,15 @@
+/workspaces/pruebaGitHubPlatzi/proyecto1/probando/bin/Debug/net8.0/pruebaGitHubPlatzi
+/workspaces/pruebaGitHubPlatzi/proyecto1/probando/bin/Debug/net8.0/pruebaGitHubPlatzi.deps.json
+/workspaces/pruebaGitHubPlatzi/proyecto1/probando/bin/Debug/net8.0/pruebaGitHubPlatzi.runtimeconfig.json
+/workspaces/pruebaGitHubPlatzi/proyecto1/probando/bin/Debug/net8.0/pruebaGitHubPlatzi.dll
+/workspaces/pruebaGitHubPlatzi/proyecto1/probando/bin/Debug/net8.0/pruebaGitHubPlatzi.pdb
+/workspaces/pruebaGitHubPlatzi/proyecto1/probando/obj/Debug/net8.0/pruebaGitHubPlatzi.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/pruebaGitHubPlatzi/proyecto1/probando/obj/Debug/net8.0/pruebaGitHubPlatzi.AssemblyInfoInputs.cache
+/workspaces/pruebaGitHubPlatzi/proyecto1/probando/obj/Debug/net8.0/pruebaGitHubPlatzi.AssemblyInfo.cs
+/workspaces/pruebaGitHubPlatzi/proyecto1/probando/obj/Debug/net8.0/pruebaGitHubPlatzi.csproj.CoreCompileInputs.cache
+/workspaces/pruebaGitHubPlatzi/proyecto1/probando/obj/Debug/net8.0/pruebaGitHubPlatzi.sourcelink.json
+/workspaces/pruebaGitHubPlatzi/proyecto1/probando/obj/Debug/net8.0/pruebaGitHubPlatzi.dll
+/workspaces/pruebaGitHubPlatzi/proyecto1/probando/obj/Debug/net8.0/refint/pruebaGitHubPlatzi.dll
+/workspaces/pruebaGitHubPlatzi/proyecto1/probando/obj/Debug/net8.0/pruebaGitHubPlatzi.pdb
+/workspaces/pruebaGitHubPlatzi/proyecto1/probando/obj/Debug/net8.0/pruebaGitHubPlatzi.genruntimeconfig.cache
+/workspaces/pruebaGitHubPlatzi/proyecto1/probando/obj/Debug/net8.0/ref/pruebaGitHubPlatzi.dll
